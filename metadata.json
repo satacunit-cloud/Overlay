@@ -1,0 +1,5 @@
+{
+  "name": "AI DJ Overlay Mixer",
+  "description": "Upload images of DJ overlays, and this AI-powered tool will mix and match elements to generate new, unique design templates. Refine the generated designs with text prompts for color, placement, and style adjustments.",
+  "requestFramePermissions": []
+}
