@@ -30,7 +30,7 @@ const templates: Template[] = [
     { id: 't14', name: 'Comedy Club', prompt: 'a funny, cartoon-style DJ overlay, bright primary colors, comic book "pow" graphics, goofy and playful font', styleKeywords: ['funny', 'cartoon', 'playful'] },
     { id: 't15', name: 'Birthday Bash', prompt: 'a birthday party celebration overlay, balloons, confetti, streamers, vibrant and celebratory colors, fun and festive font', styleKeywords: ['birthday', 'party', 'celebration'] },
     { id: 't16', name: 'Halloween Haunt', prompt: 'a spooky Halloween themed DJ overlay, with jack-o-lanterns, spider webs, eerie purple and orange glow, gothic font', styleKeywords: ['halloween', 'spooky', 'horror'] },
-    { id: 't17', name: 'Winter Wonderland', prompt: 'a Christmas and winter holiday themed overlay, snowflakes, sparkling lights, festive red and green with gold accents, elegant script font', styleKeywords: ['christmas', 'winter', 'holiday'] },
+    { id: 't17', name: 'Winter Setting', prompt: 'a Christmas and winter holiday themed overlay, snowflakes, sparkling lights, festive red and green with gold accents, elegant script font', styleKeywords: ['christmas', 'winter', 'holiday'] },
     { id: 't18', name: "New Year's Countdown", prompt: "a New Year's Eve party overlay, exploding fireworks, champagne glasses, clock counting down to midnight, glamorous gold and silver theme", styleKeywords: ['new year', 'party', 'glam'] },
     { id: 't19', name: 'Hyper Realistic', prompt: 'a hyper-realistic, photorealistic DJ overlay, with chrome and brushed metal textures, realistic lighting and shadows, 3D elements, high-end professional studio look', styleKeywords: ['realistic', 'photorealistic', '3d', 'metal'] },
 ];
